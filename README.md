@@ -32,6 +32,3 @@ Reviewly is a platform designed to help businesses collect and showcase customer
 *   **Node.js:** Ensure Node.js is installed on your system.  A version manager like `nvm` is recommended.
 *   **npm/yarn/pnpm:**  A package manager to install dependencies.
 *   **Git:**  For cloning the repository.
-## 3. Usage
-### Running the Development Server
-```bash
